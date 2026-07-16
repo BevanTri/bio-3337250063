@@ -1,1 +1,0 @@
-Repo baru ada di : https://github.com/BevanTri/Belajar-King-Laravel
